@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="style.css">
+
+
+
+<head>
+<h1> Fernanda Maia</h1>
+
+</head>
+<br>
+
+<body>
+
+<style>
+ 
+  
+
+   body{
+    background-image: url(botafogositesaf.jpg);
+    background-repeat: initial;
+   }
+
+   h1{color: rgb(91, 89, 89);
+    text-align: center;
+    font-style: oblique;
+    font-size: 40px}
+
+    p {
+
+    text-align: justify;
+    font-size: 25px;
+    }
+
+    table, th, td {
+  border: 1px solid;
+}
+
+   a:hover {
+  color: hotpink;
+}
+
+</style>
+
+<p>Olá, amigos!</p>
+
+<p> Me chamo Fernanda, tenho 35 anos de idade! Nascida e criada na cidade do Rio de Janeiro. Sou apaixonada pelo Botafogo e entrei na área da computação a fim de trabalhar na SAF e ajudar a expandir mais ainda a marca Botafogo junto com a paixão que, eu e minha torcida, temos pelo clube.</p>
+
+
+<ul>
+    <il>Conseguir contemplar o momento;</il>
+    <br>
+    <br>
+    <br>
+    <il>Dançar e tocar;</il>
+    <br>
+    <br>
+    <br>
+    <il>Torcer pelo Botafogo, estar no mar e em paz.</il>
+
+</ul>
+
+<br>
+<br>
+
+<img src="monumentalgif.jpg" width="200px" >
+<br>
+<p>Ganhando a Libertadores no Monumental de Nuñes com 10 em campo! 
+    Não basta ser escolhido, tem que ser Camisa 7!</p>
+
+    <br>
+    <br>
+
+    <table>
+
+        <tr>
+
+        <th>Paris - FRA </th>
+        <td><img src="paris.png" width="150px" ></td>
+         </tr>
+
+         <tr>
+        <th>Lima - PERU </th>
+        <td> <img src="lima.png" width="150px" ></td>
+        </tr>
+
+        <tr>
+        <th> Maldivas- ÁSIA</th>
+        <td> <img src="Maldivas.png" width="150ox"> </td>
+
+        </tr>
+
+    
+
+   
+
+    </table>
+
+    <br>
+    <br>
+    <a href="https://camisa7.botafogo.com.br/" > Vem ser camisa 7!</a> </a>
+
+</body>
+</html>
